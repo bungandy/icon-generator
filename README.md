@@ -1,7 +1,8 @@
 # icon-generator
-Icon generator for favicon
 
-Run: `npm run build`
+1. Run `npm i`
+2. Replace `src/icon.png` with the image you want to use
+3. Run `npm run build`
 
 Output:
 ```
