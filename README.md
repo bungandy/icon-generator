@@ -7,6 +7,7 @@
 
 Output:
 ```
+Generate images in folder: /icon
 icon-16x16.png ✅
 icon-32x32.png ✅
 icon-57x57.png ✅
