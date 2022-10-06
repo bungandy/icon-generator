@@ -1,7 +1,7 @@
 # icon-generator
 Icon generator for favicon
 
-Run: `npm run build
+Run: `npm run build`
 
 Output:
 ```
