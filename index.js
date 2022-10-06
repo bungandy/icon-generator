@@ -10,6 +10,7 @@ const resizeImg = require('resize-img');
     fs.mkdirSync('icon')
   }
 
+  console.log('Generate images in folder: /icon')
   for (i of sizes){
     console.log(`icon-${i}x${i}.png ✅`)
 
